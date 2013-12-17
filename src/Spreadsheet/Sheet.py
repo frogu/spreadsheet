@@ -3,7 +3,7 @@
 '''
 Created on 2010-11-18
 
-@author: lukasz.proszek@selvita.com
+@author: Lukasz Proszek
 '''
 
 from functools import total_ordering
